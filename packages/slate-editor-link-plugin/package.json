@@ -1,6 +1,6 @@
 {
   "name": "@techstacker/tse-link-plugin",
-  "version": "5.2.1",
+  "version": "5.2.2",
   "description": "SlateJS link node plugin.",
   "main": "dist/index.js",
   "repository": "https://github.com/nossas/slate-editor",
