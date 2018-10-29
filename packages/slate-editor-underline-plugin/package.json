@@ -1,6 +1,6 @@
 {
-  "name": "@slate-editor/underline-plugin",
-  "version": "5.0.0",
+  "name": "@techstacker/tse-underline-plugin",
+  "version": "5.2.1",
   "description": "SlateJS underline mark plugin.",
   "main": "dist/index.js",
   "repository": "https://github.com/nossas/slate-editor",

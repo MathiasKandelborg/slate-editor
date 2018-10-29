@@ -1,6 +1,6 @@
 {
-  "name": "@slate-editor/components",
-  "version": "5.0.0",
+  "name": "@techstacker/tse-components",
+  "version": "5.2.1",
   "description": "Components for slate-editor.",
   "main": "dist/index.js",
   "repository": "https://github.com/nossas/slate-editor",

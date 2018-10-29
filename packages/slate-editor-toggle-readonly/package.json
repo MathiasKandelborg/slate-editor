@@ -1,6 +1,6 @@
 {
-  "name": "@slate-editor/toggle-readonly",
-  "version": "5.0.0",
+  "name": "@techstacker/tse-toggle-readonly",
+  "version": "5.2.1",
   "description": "SlateJS Toggle read-only.",
   "main": "dist/index.js",
   "repository": "https://github.com/nossas/slate-editor",

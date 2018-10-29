@@ -1,6 +1,6 @@
 {
-  "name": "@slate-editor/strikethrough-plugin",
-  "version": "5.0.0",
+  "name": "@techstacker/tse-strikethrough-plugin",
+  "version": "5.2.1",
   "description": "SlateJS strikethrough mark plugin.",
   "main": "dist/index.js",
   "repository": "https://github.com/nossas/slate-editor",

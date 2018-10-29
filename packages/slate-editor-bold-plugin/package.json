@@ -1,6 +1,6 @@
 {
-  "name": "@slate-editor/bold-plugin",
-  "version": "5.0.0",
+  "name": "@techstacker/tse-bold-plugin",
+  "version": "5.2.1",
   "description": "SlateJS bold mark plugin.",
   "main": "dist/index.js",
   "repository": "https://github.com/nossas/slate-editor",
