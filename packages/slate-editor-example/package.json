@@ -1,6 +1,6 @@
 {
   "name": "slate-editor-example",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "description": "A complete rich text editor based on SlateJS framework",
   "private": true,
   "main": "lib/index.js",
